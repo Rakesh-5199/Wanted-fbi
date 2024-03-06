@@ -1,0 +1,22 @@
+.details-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.details-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.details-image {
+    display: block;
+    margin-top: 10px;
+    max-width: 100%;
+    border-radius: 5px;
+}
+h4 {
+color: green;
+}
